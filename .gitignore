@@ -9,3 +9,4 @@
 .externalNativeBuild
 app/src/main/jniLibs/**
 app/src/main/cpp/samba_includes/**
+app/.cxx

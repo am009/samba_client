@@ -18,6 +18,7 @@
 #ifndef SAMBADOCUMENTSPROVIDER_SERVERCACHE_H
 #define SAMBADOCUMENTSPROVIDER_SERVERCACHE_H
 
+#include <string>
 #include <unordered_map>
 
 namespace SambaClient {

@@ -19,6 +19,7 @@
 #define SAMBADOCUMENTSPROVIDER_JAVACLASSCACHE_H
 
 #include <unordered_map>
+#include <string>
 #include <jni.h>
 
 namespace SambaClient {
